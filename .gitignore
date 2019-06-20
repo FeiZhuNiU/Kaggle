@@ -1,3 +1,8 @@
 *.tif
 *.csv
+*.json
+*.jpg
+coco2017/
+cocoapi/
 .ipynb_checkpoints/
+*/log*/
